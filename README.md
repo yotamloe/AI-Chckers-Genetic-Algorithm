@@ -6,4 +6,5 @@ The program finds the shotest path of valid moves between start board and goal b
 4. Genetic algorithm
 5. A* serach
 
+
 Download the file and run in termainal or IDE.
